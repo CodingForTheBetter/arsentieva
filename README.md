@@ -1,6 +1,6 @@
 ### Hello World, I'm Anna  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fremakelearning.org%2Fopportunity%2F2020%2F01%2F13%2Fguide-to-python-programming-language-simpliv%2F&psig=AOvVaw2mi9xJjBclExxnK_7USDm3&ust=1628845732486000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCfha6Rq_ICFQAAAAAdAAAAABBK" width="500" height="320" />
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
